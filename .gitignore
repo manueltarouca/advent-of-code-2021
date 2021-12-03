@@ -1,2 +1,6 @@
+# Typescript
 */node_modules
 */build
+
+# Rust
+*/target
