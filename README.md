@@ -10,15 +10,15 @@ In this advent of code, I'll try to use as many languages as I can.
 
 ## List of languages yet to be used:
 
-- Rust
 - PHP
 - Bash
+- PowerShell
+- Rust
 - Go
 - C
 - C++
 - C#
-- PowerShell
-- Haskel
+- Haskell
 - Elixir
 - Dart
 - Kotlin
